@@ -60,12 +60,12 @@ Utilizing APIs for Twitter to parse @handles and tell how boring someone is.
 - twitterless Jason Deets
 - twitterless Arun S
 
-**SuperPi**
-Decoding faluty manufacturing documentation...With drones!
+**[SuperPi](https://github.com/PGHLittleHack/Big-PGHLittleHack-2019/tree/master/TeamSuperPi)**
+Decoding manufacturing documentation...With drones!
 
 - [Fares Khoury](https://twitter.com/khoury1701)
 - twitterless Kurt Byrnes  
-- twitterless Connor Byrnes  
+- [Connor Byrnes](https://twitter.com/cjbconnor)
 - [David Stevens](https://twitter.com/PSUStevens)
 - [Joe Cudzik](https://twitter.com/JoeCudzik)
 - Twitterless Jason Dietz
