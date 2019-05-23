@@ -39,7 +39,7 @@ Leveraging Imgur APIs to uploaped images of cats via Postman
 - [Matt Langguth](https://twitter.com/gsxesx)
 - [Mark Wolfe](https://twitter.com/markwolfe412)
 
-**Giant Shreaglez - FIRST ON BOARD**
+**Giant Shreaglez - FIRST ON BOARD [Team Giant Shreaglez](https://github.com/PGHLittleHack/Big-PGHLittleHack-2019/tree/master/TeamGiantShreaglez)**
 Using Terraform to stand up EC2 instances and monitor them using vROPS. Levergaing Pihole as the workload.
 Using a Phonton based VM as an Ad blocker replacement to personalize Ads
 
