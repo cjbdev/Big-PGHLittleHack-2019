@@ -32,7 +32,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Matt Langguth](https://twitter.com/gsxesx)
 - [Mark Wolfe](https://twitter.com/markwolfe412)
 
-**Giant Shreaglez - FIRST ON BOARD**
+**Giant Shreaglez - FIRST ON BOARD [Team Giant Shreaglez](https://github.com/PGHLittleHack/Big-PGHLittleHack-2019/tree/master/TeamGiantShreaglez)**
 - [Brett Rath](https://twitter.com/pa_sre)  
 - [Wes Milliron](https://twitter.com/WesMilliron)
 - [AdminWillie](https://twitter.com/adminwillie)  
